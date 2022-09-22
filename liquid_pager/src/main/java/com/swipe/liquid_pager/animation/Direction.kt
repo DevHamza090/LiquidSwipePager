@@ -1,4 +1,4 @@
-package com.hamza.liquid_pager.animation
+package com.swipe.liquid_pager.animation
 
 object Direction {
     val NONE = -1

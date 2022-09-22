@@ -1,4 +1,4 @@
-package com.hamza.liquid_pager.animation
+package com.swipe.liquid_pager.animation
 
 import android.animation.ValueAnimator
 import android.graphics.Canvas
@@ -6,10 +6,11 @@ import android.graphics.Matrix
 import android.graphics.drawable.Drawable
 import android.view.MotionEvent
 import androidx.core.animation.doOnEnd
-import com.hamza.liquid_pager.EdgeController
-import com.hamza.liquid_pager.ViewI
-import com.hamza.liquid_pager.animation.Direction.LEFT
-import com.hamza.liquid_pager.animation.Direction.RIGHT
+import com.hamza.liquid_pager.animation.WaveLayer
+import com.swipe.liquid_pager.EdgeController
+import com.swipe.liquid_pager.ViewI
+import com.swipe.liquid_pager.animation.Direction.LEFT
+import com.swipe.liquid_pager.animation.Direction.RIGHT
 import kotlin.math.abs
 import kotlin.math.max
 import kotlin.math.min

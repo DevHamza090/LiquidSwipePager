@@ -2,7 +2,7 @@ package com.example.liquidswipe
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.hamza.liquid_pager.LiquidPager
+import com.swipe.liquid_pager.LiquidPager
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

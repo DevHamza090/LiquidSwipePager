@@ -1,4 +1,4 @@
-package com.hamza.liquid_pager
+package com.swipe.liquid_pager
 
 import org.junit.Test
 

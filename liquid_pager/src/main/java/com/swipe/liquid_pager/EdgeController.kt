@@ -1,13 +1,13 @@
-package com.hamza.liquid_pager
+package com.swipe.liquid_pager
 
 import android.animation.ValueAnimator
 import android.graphics.*
 import android.view.MotionEvent
 import androidx.core.animation.doOnEnd
-import com.hamza.liquid_pager.animation.AnimationHelper
-import com.hamza.liquid_pager.animation.Direction.LEFT
-import com.hamza.liquid_pager.animation.Direction.NONE
-import com.hamza.liquid_pager.animation.Direction.RIGHT
+import com.swipe.liquid_pager.animation.AnimationHelper
+import com.swipe.liquid_pager.animation.Direction.LEFT
+import com.swipe.liquid_pager.animation.Direction.NONE
+import com.swipe.liquid_pager.animation.Direction.RIGHT
 
 abstract class EdgeController(
     protected var width: Int = 0,

@@ -1,4 +1,4 @@
-package com.hamza.liquid_pager.animation
+package com.swipe.liquid_pager.animation
 
 import kotlin.math.cos
 import kotlin.math.exp

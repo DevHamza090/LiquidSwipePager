@@ -1,4 +1,4 @@
-package com.hamza.liquid_pager
+package com.swipe.liquid_pager
 
 import android.content.Context
 import android.graphics.Bitmap
@@ -11,9 +11,9 @@ import androidx.annotation.Px
 import androidx.core.view.drawToBitmap
 import androidx.viewpager.widget.PagerAdapter
 import androidx.viewpager.widget.ViewPager
-import com.hamza.liquid_pager.animation.Direction.LEFT
-import com.hamza.liquid_pager.animation.LeftEdgeController
-import com.hamza.liquid_pager.animation.RightEdgeController
+import com.swipe.liquid_pager.animation.Direction.LEFT
+import com.swipe.liquid_pager.animation.LeftEdgeController
+import com.swipe.liquid_pager.animation.RightEdgeController
 
 class LiquidPager : ViewPager, ViewTreeObserver.OnDrawListener, ViewI {
 

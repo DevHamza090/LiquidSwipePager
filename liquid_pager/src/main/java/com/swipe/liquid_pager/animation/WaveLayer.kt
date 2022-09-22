@@ -1,7 +1,7 @@
 package com.hamza.liquid_pager.animation
 
 import android.graphics.Path
-import com.hamza.liquid_pager.animation.Direction.RIGHT
+import com.swipe.liquid_pager.animation.Direction.RIGHT
 
 internal class WaveLayer(
     var waveCenterY: Float,
