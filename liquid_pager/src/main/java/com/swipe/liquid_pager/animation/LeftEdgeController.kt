@@ -2,7 +2,6 @@ package com.swipe.liquid_pager.animation
 
 import android.graphics.Canvas
 import android.view.MotionEvent
-import com.hamza.liquid_pager.animation.WaveLayer
 import com.swipe.liquid_pager.EdgeController
 import com.swipe.liquid_pager.ViewI
 import com.swipe.liquid_pager.animation.Direction.LEFT

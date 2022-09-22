@@ -6,7 +6,6 @@ import android.graphics.Matrix
 import android.graphics.drawable.Drawable
 import android.view.MotionEvent
 import androidx.core.animation.doOnEnd
-import com.hamza.liquid_pager.animation.WaveLayer
 import com.swipe.liquid_pager.EdgeController
 import com.swipe.liquid_pager.ViewI
 import com.swipe.liquid_pager.animation.Direction.LEFT

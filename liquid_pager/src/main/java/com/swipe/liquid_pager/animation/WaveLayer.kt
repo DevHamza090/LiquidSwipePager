@@ -1,4 +1,4 @@
-package com.hamza.liquid_pager.animation
+package com.swipe.liquid_pager.animation
 
 import android.graphics.Path
 import com.swipe.liquid_pager.animation.Direction.RIGHT
