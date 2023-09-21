@@ -23,7 +23,7 @@
 
 ```
     dependencies {
-        implementation 'com.github.Delecom:LiquidSwipePager:latest-version'
+        implementation 'com.github.DevHamza090:LiquidSwipePager:latest-version'
     }
 ```
 
